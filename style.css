@@ -1,0 +1,9 @@
+#container{
+    border-style: dotted;color: crimson;
+}
+.fox{
+  padding: 20px;
+  margin: 5%;
+  border-style: solid;color: blueviolet;
+  
+}
